@@ -1,13 +1,13 @@
 ---
 title: Introduction
 teaching: 10
-exercises: 10
+exercises: null
 duration: 0
 summary: ""
 questions: null
 objectives:
   - |-
-    To inform the instructor on the backgrounds of the participants.
+    To inform the instructor of the backgrounds of the participants.
     To prepare participants for the workshop.
 keypoints: null
 is-break: false
