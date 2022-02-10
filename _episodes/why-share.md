@@ -1,26 +1,37 @@
 ---
-title: "Why share?" # title of the episode
-teaching: 0 # time required to teach (minutes)
-exercises: 30 # time required for participants to do the activities (minutes)
-duration: 0 # duration not included in teaching/exercises time (minutes)
-# summary of the episode content for displaying on the schedule page
-summary: >-
-  In this lesson we consider some of the reasons why people share
-  code and software, and think about which of those reasons might
-  apply to us.
+title: Why should researchers share their code?
+teaching: 15
+exercises: 15
+duration: 0
+summary: 'In this lesson we consider some of the reasons why people share code
+  and software, and the concerns about and barriers to sharing code. We will
+  also consider what makes code "good". '
 questions:
+  - |-
+    Why are the benefits for sharing code?
+    Why don't researchers make their code public?
+    What attributes does code have to be considered "good"?
 objectives:
+  - >-
+    To identify the benefits that you would realise if you made your code
+    available.
+
+    To identify the barriers that current stop you from making your code available.
+
+    To identify what steps needs to be take to write good code "worthy" of posting publicly.
 keypoints:
   - People share code and software for many reasons
-  - Shared software can be extended
-  - Shared software can be evaluated
-  - Bugs can be found and fixed
+  - Some of the barriers to sharing software are personal and some institutional.
+  - |
+    Good code is obtainable by any programmer regardless of experience. 
+  - They are a number of small steps that can be taken to prepare your code for
+    sharing.
 is-break: false
-ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
+ukrn_wb_rules: null
 day: 1
-order: 10000
----
+order: 17500
 
+---
 > ## Enumerating the benefits `5 min`
 > In small groups, try to think of reasons people share code and software.
 > Using the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>,
