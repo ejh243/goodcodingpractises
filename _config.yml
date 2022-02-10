@@ -1,22 +1,25 @@
 ---
-workshop_id:
+workshop_id: EH_UE_OCS_20220210_01
 topic: open-code
 title: Open Code Workshop
-instructors: []
-instructor_emails: []
-helpers: []
+instructors:
+  - Eilis Hannon
+instructor_emails:
+  - E.J.Hannon@exeter.ac.uk
+helpers:
+  - A Helper 1
 start_times:
   - 09|00
 setup_files: []
 language: en
-venue:
-address:
-country:
-latitude:
-longitude:
-start_date:
-collaborative_notes:
-eventbrite:
+venue: UoE
+address: UoE
+country: GB
+latitude: 50.721802
+longitude: -3.53362
+start_date: 2022-03-31T23:00:00.000Z
+collaborative_notes: null
+eventbrite: null
 optional_intro_sections:
   - requirements
   - accessibility
