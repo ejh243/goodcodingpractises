@@ -1,9 +1,10 @@
 ---
-title: New Lesson
-teaching: 10
-exercises: 20
+title: Principles of Good Code
+teaching: 45
+exercises: null
 duration: 0
-summary: ""
+summary: In this session we will provide an overview of methods and attributes
+  of good code.
 questions: null
 objectives: null
 keypoints: null
