@@ -32,7 +32,7 @@ day: 1
 order: 17500
 
 ---
-> ## Enumerating the benefits `5 min`
+> ## Enumerating the benefits `10 min`
 > In small groups, try to think of reasons people share code and software.
 > Using the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>,
 > jot down any ideas you come up with, so that we have an overall list at the end.
@@ -47,7 +47,7 @@ order: 17500
 > {: .solution}
 {: .prereq}
 
-> ## Considering the concerns `5 min`
+> ## Considering the concerns `10 min`
 > In the same groups, try to think of reasons people might hesitate to share code or software.
 > Again, use the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>
 > to jot down any ideas you come up with.
@@ -63,32 +63,47 @@ order: 17500
 > {: .solution}
 {: .prereq}
 
-> ## Your experiences `10 min`
-> Now we have listed some benefits and concerns of sharing, go around your small group and have
-> each group member identify two items that they have experience with.
-> You can choose a benefit and a concern, or two benefits or even two concerns.
-> For each one, share your experience of it with your colleagues.
-> If you have time, add a brief note about your experience to the
-> <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>,
-> but the focus should be on sharing with your colleagues and listening to what they have to say.
-{: .challenge}
 
 > ## Addressing concerns `10 min`
 > We have a list of concerns that people in your workshops might have.
-> It's helpful to be able to provide some perspective on those concerns --
-> we want to acknowledge that sharing can be frightening or difficult,
-> but highlight that it is worth doing anyway!
->
-> Again, in your group, choose two of the concerns. If they are concerns you have
-> or have had yourself, that's ideal, but they could also be ones that you just
-> find interesting.
-> Go around the group, discussing each person's concerns.
-> Try to think of reasons why the concern should not hold you back from
-> sharing your code and software.
-> If you can't think of anything, try asking the larger group or one of the
-> workshop instructors or helpers.
 >
 > Remember, it's not wrong to have concerns! We believe that sharing data and code
 > is important and that the benefits outweigh the concerns, and we'd like to help
 > you understand why and give you any encouragement you need.
-{: .discussion}
+> Here, we hope to provide some perspective on those concerns
+>
+> ## Focus on the concern that your code is not "good" enough to share `15 min`
+> All programmer's experience anxiety sharing their code, it is not reserved to individuals 
+> who class themselves as beginners or not "professional software developers". 
+> If we are all aspiring to create good quality code in order to share it, it raises the question, 
+> what makes code good?
+> In your groups, think of examples of code you have seen or used that you thought was good, or easy to use. 
+> What features or attributes did it have? Use the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>
+> to jot down any ideas you come up with.
+>
+>
+> It is true that there are multiple ways to acheive the same goal, within the same programming language. 
+> While some solutions may be more efficient, and some solutions more elegant, the primary objective is 
+> that your code is robust and fit for purpose. Try not to feel too self conscious that your solution is 
+> too simple, simplicity is not a negative. 
+> 
+> Another concern regarding quality is that your code is too messy. When you start writing a new script 
+> it can be really challenging to make it look pretty as you focus on crafting the algorithm or computational routine and
+> working out what commands you need to implement it. To be honest, it's hard to manage even these two things at once.  
+> But this is not dissimilar to when we write a piece of prose (thesis, report, manuscript). Intially we focus on what we 
+> want to say and how and as the content develops (or sometimes at the end) we turn our attention to formatting and checking 
+> that the way it is structured and presented makes it really easy for someone to read.
+>
+> Essentially, it is not uncommon to have "messy" scripts along the way. But "cleaning" them up needn't be an arduous task, 
+> and is a barrier we are all able to overcome. This can also be a great self-reflective process, where you learn for you next script, 
+> where different components work best and you may find over time writing "tidier" scripts comes more naturally.
+>
+> Our objective today is to start this process. We will work on a script, and "clean" it up to be something that you feel confident to share. 
+> The mechanism for sharing code will be covered in the next session.
+>
+>
+> We want to acknowledge that sharing can be frightening or difficult, but highlight that it is worth doing anyway! 
+> The first time is the scariest. As you start to share more frequently, it becomes part of your mindset that 
+> "this script will be seen by someone else" and you code in a different (probably better) way. Therefore by being open to 
+> sharing your work you will likely improve your own skillset as you aspire to share, useful high quality content. 
+
